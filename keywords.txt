@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FT6206		KEYWORD1
+TS_Point	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+readData	KEYWORD2
+autoCalibrate	KEYWORD2
+touched		KEYWORD2
+getPoint	KEYWORD2
